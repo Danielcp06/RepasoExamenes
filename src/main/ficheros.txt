@@ -1,0 +1,12 @@
+F archivo.txt
+F SOL.JPG
+F Manual.pdf
+F tAbLa.csv
+F reportes.old
+F de.txt
+F imagen.jpeg
+Farchivo.zip
+f datos.raw
+F nota_1.txt
+F carta.do
+X foto.png

@@ -1,3 +1,5 @@
+package Ejercicio9;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
@@ -5,7 +7,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
-import java.time.LocalDate;
 import java.util.List;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
